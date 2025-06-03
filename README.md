@@ -53,6 +53,9 @@
 - ✅ **多層パーセプトロン (MLP)**
 - ✅ **畳み込みニューラルネット (CNN, LeNet-5)**
 - ✅ **ResNet**
+- ✅ **VGG**
+- ⏳ **GoogleNet**
+- ⏳ **ResNet**
 - ☐ **DenseNet／EfficientNet／MobileNet／Inception**
 - ☐ **Vision Transformer (ViT)／Swin Transformer**
 - ☐ **U-Net／Mask R-CNN／YOLOv8**
@@ -64,11 +67,6 @@
 - ☐ **VAE**
 - ☐ **GAN／CycleGAN／StyleGAN3**
 - ☐ **Stable Diffusion**
-
-### アンサンブル・メタ学習
-- ☐ **スタッキング**
-- ☐ **ブレンディング**
-- ☐ **バギング**
 
 ### 次元削減・表現学習
 - ☐ **主成分分析 (PCA)**
