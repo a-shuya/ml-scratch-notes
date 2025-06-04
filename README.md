@@ -49,8 +49,10 @@
 - ✅ **ResNet**
 - ✅ **VGG**
 - ⏳ **GoogLeNet**
-- ⏳ **ResNet（改良版）**
-- ✅ **RNN (1)**
+- ⏳ **ResNet**
+- ⏳ **RNN (Elman Network)**
+- ⏳ **RNN (BPTT)**
+- ✅ **LSTM**
 
 ### 次元削減・表現学習
 *(準備中)*
@@ -128,8 +130,10 @@ Everything is written in **pure Python** (only NumPy and/or PyTorch as helpers).
 - ✅ **ResNet**
 - ✅ **VGG**
 - ⏳ **GoogLeNet**
-- ⏳ **ResNet (advanced variants / refactor)**
-- ✅ **RNN (1)**
+- ⏳ **ResNet**
+- ⏳ **RNN (Elman Network)**
+- ⏳ **RNN (BPTT)**
+- ✅ **LSTM**
 
 ### Dimensionality Reduction & Representation Learning
 *(coming soon)*
