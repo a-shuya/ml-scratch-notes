@@ -53,9 +53,6 @@
 - ✅[LSTM](notebooks/NLP/03_LSTM.ipynb)  
 - ✅[GRU](notebooks/NLP/04_GRU.ipynb)  
 
-
-
-
 ---
 
 <!-- ===================================================== -->
