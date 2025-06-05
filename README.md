@@ -22,59 +22,31 @@
 
 ---
 
-## 実装状況
+## ノートブック一覧
 
-### 線形モデル
-- ✅ **線形回帰**
-- ✅ **リッジ回帰**
-- ✅ **ラッソ回帰**
-- ✅ **Elastic Net**
+- ✅[重回帰](notebooks/Linear_Regression/01_multiple_regression.ipynb)  
+- ✅[Ridge 回帰](notebooks/Linear_Regression/02_ridge.ipynb)  
+- ✅[Lasso 回帰](notebooks/Linear_Regression/03_lasso.ipynb)  
+- ✅[Elastic Net](notebooks/Linear_Regression/04_elastic_net.ipynb)  
 
-### ツリーベース
-- ✅ **決定木**
-- ✅ **ランダムフォレスト**
-- ✅ **Gradient Boosting**
-- ✅ **XGBoost**
-- ⏳ **LightGBM**
+- ✅[MLP](notebooks/mlp+CNN/01_mlp.ipynb)  
+- ✅[CNN (LeNet-5)](notebooks/mlp+CNN/02_CNN_lenet5.ipynb)  
+- ✅[AlexNet](notebooks/mlp+CNN/03_AlexNet.ipynb)  
+- ✅[VGG](notebooks/mlp+CNN/04_VGG.ipynb)  
+- ⏳[GoogleNet](notebooks/mlp+CNN/05_GoogleNet.ipynb)  
+- ⏳[ResNet](notebooks/mlp+CNN/06_ResNet.ipynb)  
 
-### カーネル／距離ベース
-*(準備中)*
+- ⏳[SRN](notebooks/NLP/01_SRN.ipynb)  
+- ⏳[BPTT](notebooks/NLP/02_BPTT.ipynb)  
+- ✅[LSTM](notebooks/NLP/03_LSTM.ipynb)  
+- ✅[GRU](notebooks/NLP/04_GRU.ipynb)  
 
-### 確率モデル・ベイズ推論
-*(準備中)*
+- ✅[CART (Decision Tree)](notebooks/Tree/01_CART.ipynb)  
+- ✅[Random Forest](notebooks/Tree/02_random_forest.ipynb)  
+- ✅[Gradient Boosting (GBDT)](notebooks/Tree/03_gbdt.ipynb)  
+- ✅[XGBoost](notebooks/Tree/04_xgboost.ipynb)  
+- ⏳[LightGBM](notebooks/Tree/05_lightgbm.ipynb)  
 
-### ニューラルネット／深層学習
-- ✅ **多層パーセプトロン (MLP)**
-- ✅ **畳み込みニューラルネット (CNN, LeNet-5)**
-- ✅ **ResNet**
-- ✅ **VGG**
-- ⏳ **GoogLeNet**
-- ⏳ **ResNet**
-- ⏳ **RNN (Elman Network)**
-- ⏳ **RNN (BPTT)**
-- ✅ **LSTM**
-
-### 次元削減・表現学習
-*(準備中)*
-
-### クラスタリング
-*(準備中)*
-
-### 強化学習
-*(準備中)*
-
-### 時系列解析
-*(準備中)*
-
-### 異常検知
-*(準備中)*
-
----
-
-## 進め方
-
-- 新しいモデルを実装して動作確認できたら ✅ を付けて一覧に追加  
-- 実装途中のものは ⏳ のまま 
 
 ---
 
@@ -103,52 +75,30 @@ Everything is written in **pure Python** (only NumPy and/or PyTorch as helpers).
 
 ---
 
-## Implemented / In-Progress Models
+## Notebook List
 
-### Linear Models
-- ✅ **Linear Regression**
-- ✅ **Ridge Regression**
-- ✅ **Lasso Regression**
-- ✅ **Elastic Net**
+- ✅[Multiple Regression](notebooks/Linear_Regression/01_multiple_regression.ipynb)  
+- ✅[Ridge Regression](notebooks/Linear_Regression/02_ridge.ipynb)  
+- ✅[Lasso Regression](notebooks/Linear_Regression/03_lasso.ipynb)  
+- ✅[Elastic Net](notebooks/Linear_Regression/04_elastic_net.ipynb)  
 
-### Tree-Based Methods
-- ✅ **Decision Tree**
-- ✅ **Random Forest**
-- ✅ **Gradient Boosting**
-- ✅ **XGBoost**
-- ⏳ **LightGBM**
+- ✅[MLP](notebooks/mlp+CNN/01_mlp.ipynb)  
+- ✅[CNN (LeNet-5)](notebooks/mlp+CNN/02_CNN_lenet5.ipynb)  
+- ✅[AlexNet](notebooks/mlp+CNN/03_AlexNet.ipynb)  
+- ✅[VGG](notebooks/mlp+CNN/04_VGG.ipynb)  
+- ⏳[GoogleNet](notebooks/mlp+CNN/05_GoogleNet.ipynb)  
+- ⏳[ResNet](notebooks/mlp+CNN/06_ResNet.ipynb)  
 
-### Kernel / Distance-Based
-*(coming soon)*
+- ⏳[SRN](notebooks/NLP/01_SRN.ipynb)  
+- ⏳[BPTT](notebooks/NLP/02_BPTT.ipynb)  
+- ✅[LSTM](notebooks/NLP/03_LSTM.ipynb)  
+- ✅[GRU](notebooks/NLP/04_GRU.ipynb)  
 
-### Probabilistic Models & Bayesian Inference
-*(coming soon)*
-
-### Neural Networks / Deep Learning
-- ✅ **Multilayer Perceptron (MLP)**
-- ✅ **Convolutional Neural Network (CNN, LeNet-5)**
-- ✅ **ResNet**
-- ✅ **VGG**
-- ⏳ **GoogLeNet**
-- ⏳ **ResNet**
-- ⏳ **RNN (Elman Network)**
-- ⏳ **RNN (BPTT)**
-- ✅ **LSTM**
-
-### Dimensionality Reduction & Representation Learning
-*(coming soon)*
-
-### Clustering
-*(coming soon)*
-
-### Reinforcement Learning
-*(coming soon)*
-
-### Time-Series Analysis
-*(coming soon)*
-
-### Anomaly Detection
-*(coming soon)*
+- ✅[CART (Decision Tree)](notebooks/Tree/01_CART.ipynb)  
+- ✅[Random Forest](notebooks/Tree/02_random_forest.ipynb)  
+- ✅[Gradient Boosting (GBDT)](notebooks/Tree/03_gbdt.ipynb)  
+- ✅[XGBoost](notebooks/Tree/04_xgboost.ipynb)  
+- ⏳[LightGBM](notebooks/Tree/05_lightgbm.ipynb)  
 
 ---
 
