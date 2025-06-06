@@ -38,20 +38,23 @@
 - ⏳[LightGBM](notebooks/Tree/05_lightgbm.ipynb)  
 
 ### ニューラルネット
-- ✅[MLP](notebooks/mlp+CNN/01_mlp.ipynb)  
+- ✅[MLP](notebooks/DL_fundamental/01_mlp.ipynb)  
 
 ### CNNs
-- ✅[CNN (LeNet-5)](notebooks/mlp+CNN/02_CNN_lenet5.ipynb)  
-- ✅[AlexNet](notebooks/mlp+CNN/03_AlexNet.ipynb)  
-- ✅[VGG](notebooks/mlp+CNN/04_VGG.ipynb)  
-- ⏳[GoogleNet](notebooks/mlp+CNN/05_GoogleNet.ipynb)  
-- ⏳[ResNet](notebooks/mlp+CNN/06_ResNet.ipynb)  
+- ✅[CNN (LeNet-5)](notebooks/CNNs/01_CNN_lenet5.ipynb)  
+- ✅[AlexNet](notebooks/CNNs/02_AlexNet.ipynb)  
+- ✅[VGG](notebooks/CNNs/03_VGG.ipynb)  
+- ⏳[GoogleNet](notebooks/CNNs/04_GoogleNet.ipynb)  
+- ⏳[ResNet](notebooks/CNNs/05_ResNet.ipynb)  
+
+### NLP Basic
+- ✅[BoW & TF-IDF](notebooks/basic_NLP/01_text_preprocessing.ipynb)  
 
 ### RNNs
-- ⏳[SRN](notebooks/NLP/01_SRN.ipynb)  
-- ⏳[BPTT](notebooks/NLP/02_BPTT.ipynb)  
-- ✅[LSTM](notebooks/NLP/03_LSTM.ipynb)  
-- ✅[GRU](notebooks/NLP/04_GRU.ipynb)  
+- ⏳[SRN](notebooks/RNNs/01_SRN.ipynb)  
+- ⏳[BPTT](notebooks/RNNs/02_BPTT.ipynb)  
+- ✅[LSTM](notebooks/RNNs/03_LSTM.ipynb)  
+- ✅[GRU](notebooks/RNNs/04_GRU.ipynb)  
 
 ---
 
