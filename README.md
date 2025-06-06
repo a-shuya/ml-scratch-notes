@@ -8,9 +8,7 @@
 
 # MLスクラッチ実装コレクション
 
-手元でアルゴリズムを **一から実装** し、仕組みを掘り下げる写経用リポジトリです。  
-すべて **Pure Python**（＋NumPy / PyTorch）で書いています。
-
+機械学習およびそれに付随するトピックのアルゴリズムを **NumpyやPyTorchのみで実装** し、仕組みを掘り下げる写経用リポジトリです。  
 ---
 
 ## 凡例
@@ -39,6 +37,7 @@
 
 ### ニューラルネット
 - ✅[MLP](notebooks/DL_fundamental/01_mlp.ipynb)  
+- optimizer系もここに追加予定
 
 ### CNNs
 - ✅[CNN (LeNet-5)](notebooks/CNNs/01_CNN_lenet5.ipynb)  
@@ -48,7 +47,8 @@
 - ⏳[ResNet](notebooks/CNNs/05_ResNet.ipynb)  
 
 ### NLP Basic
-- ✅[BoW & TF-IDF](notebooks/basic_NLP/01_text_preprocessing.ipynb)  
+- ✅[BoW & TF-IDF](notebooks/basic_NLP/01_text_preprocessing.ipynb) 
+- ✅[Word2Vec](notebooks/basic_NLP/02_word_embeddings.ipynb) 
 
 ### RNNs
 - ⏳[SRN](notebooks/RNNs/01_SRN.ipynb)  
