@@ -40,7 +40,12 @@
 
 ### ニューラルネット
 - ✅[MLP](notebooks/DL_fundamental/01_mlp.ipynb)  
-- optimizer系もここに追加予定
+- ✅[活性化関数](notebooks/DL_fundamental/02_activation_function.ipynb)
+- ✅[損失関数](notebooks/DL_fundamental/03_loss_function.ipynb)
+- ✅[重み初期化](notebooks/DL_fundamental/04_weight_initialization.ipynb)
+- ✅[Optimizer](notebooks/DL_fundamental/05_optimizer.ipynb)
+- ✅[Learning Rate](notebooks/DL_fundamental/06_learning_rate.ipynb)
+- ✅[Normalization](notebooks/DL_fundamental/07_normalization.ipynb)
 
 ### CNNs
 - ✅[CNN (LeNet-5)](notebooks/CNNs/01_CNN_lenet5.ipynb)  
@@ -106,20 +111,33 @@ Everything is written in **pure Python** (only NumPy and/or PyTorch as helpers).
 - ⏳[LightGBM](notebooks/Tree/05_lightgbm.ipynb)  
 
 ### Neural Networks
-- ✅[MLP](notebooks/mlp+CNN/01_mlp.ipynb)  
+- ✅[MLP](notebooks/DL_fundamental/01_mlp.ipynb)  
+- ✅[Activation Functions](notebooks/DL_fundamental/02_activation_function.ipynb)
+- ✅[Loss Functions](notebooks/DL_fundamental/03_loss_function.ipynb)
+- ✅[Weight Initialization](notebooks/DL_fundamental/04_weight_initialization.ipynb)
+- ✅[Optimizer](notebooks/DL_fundamental/05_optimizer.ipynb)
+- ✅[Learning Rate](notebooks/DL_fundamental/06_learning_rate.ipynb)
+- ✅[Normalization](notebooks/DL_fundamental/07_normalization.ipynb)
 
 ### CNNs
-- ✅[CNN (LeNet-5)](notebooks/mlp+CNN/02_CNN_lenet5.ipynb)  
-- ✅[AlexNet](notebooks/mlp+CNN/03_AlexNet.ipynb)  
-- ✅[VGG](notebooks/mlp+CNN/04_VGG.ipynb)  
-- ⏳[GoogleNet](notebooks/mlp+CNN/05_GoogleNet.ipynb)  
-- ⏳[ResNet](notebooks/mlp+CNN/06_ResNet.ipynb)  
+- ✅[CNN (LeNet-5)](notebooks/CNNs/01_CNN_lenet5.ipynb)  
+- ✅[AlexNet](notebooks/CNNs/02_AlexNet.ipynb)  
+- ✅[VGG](notebooks/CNNs/03_VGG.ipynb)  
+- ⏳[GoogleNet](notebooks/CNNs/04_GoogleNet.ipynb)  
+- ⏳[ResNet](notebooks/CNNs/05_ResNet.ipynb)  
+
+### NLP Basic
+- ✅[BoW & TF-IDF](notebooks/basic_NLP/01_text_preprocessing.ipynb) 
+- ✅[Language Modeling](notebooks/basic_NLP/02_language_modeling.ipynb) 
+- ✅[Word2Vec](notebooks/basic_NLP/03_word_embeddings.ipynb) 
+- ✅[Sub-word Tokenization](notebooks/basic_NLP/04_subword_tokenization.ipynb) #
+- ✅[HuggingFace Tokenizer](notebooks/basic_NLP/05_huggingface_tokenizer.ipynb) 
 
 ### RNNs
-- ⏳[SRN](notebooks/NLP/01_SRN.ipynb)  
-- ⏳[BPTT](notebooks/NLP/02_BPTT.ipynb)  
-- ✅[LSTM](notebooks/NLP/03_LSTM.ipynb)  
-- ✅[GRU](notebooks/NLP/04_GRU.ipynb)  
+- ⏳[SRN](notebooks/RNNs/01_SRN.ipynb)  
+- ⏳[BPTT](notebooks/RNNs/02_BPTT.ipynb)  
+- ✅[LSTM](notebooks/RNNs/03_LSTM.ipynb)  
+- ✅[GRU](notebooks/RNNs/04_GRU.ipynb)
 
 
 
