@@ -51,7 +51,11 @@
 
 ### NLP Basic
 - ✅[BoW & TF-IDF](notebooks/basic_NLP/01_text_preprocessing.ipynb) 
-- ✅[Word2Vec](notebooks/basic_NLP/02_word_embeddings.ipynb) 
+- ✅[Language Modeling](notebooks/basic_NLP/02_language_modeling.ipynb) 
+- ✅[Word2Vec](notebooks/basic_NLP/03_word_embeddings.ipynb) 
+- ✅[Sub-word Tokenization](notebooks/basic_NLP/04_subword_tokenization.ipynb) 
+- ✅[HuggingFace Tokenizer](notebooks/basic_NLP/05_huggingface_tokenizer.ipynb) 
+
 
 ### RNNs
 - ⏳[SRN](notebooks/RNNs/01_SRN.ipynb)  
