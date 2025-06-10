@@ -38,6 +38,12 @@
 - ✅[XGBoost](notebooks/Tree/04_xgboost.ipynb)  
 - ⏳[LightGBM](notebooks/Tree/05_lightgbm.ipynb)  
 
+### クラスタリング
+- ✅[K-means](notebooks/clustering/01_kmeans.ipynb)  
+- ✅[階層クラスタリング](notebooks/clustering/02_hierarchical.ipynb)  
+- ✅[DBSCAN & GMM](notebooks/clustering/03_dense.ipynb)  
+- ✅[スペクトラルクラスタリング](notebooks/clustering/04_spectral.ipynb)
+
 ### ニューラルネット
 - ✅[MLP](notebooks/DL_fundamental/01_mlp.ipynb)  
 - ✅[活性化関数](notebooks/DL_fundamental/02_activation_function.ipynb)
@@ -110,6 +116,12 @@ Everything is written in **pure Python** (only NumPy and/or PyTorch as helpers).
 - ✅[XGBoost](notebooks/Tree/04_xgboost.ipynb)  
 - ⏳[LightGBM](notebooks/Tree/05_lightgbm.ipynb)  
 
+### Clustering
+- ✅[K-means](notebooks/clustering/01_kmeans.ipynb)  
+- ✅[Hierarchical Clustering](notebooks/clustering/02_hierarchical.ipynb)  
+- ✅[DBSCAN & GMM](notebooks/clustering/03_dense.ipynb)  
+- ✅[Spectral Clustering](notebooks/clustering/04_spectral.ipynb)
+
 ### Neural Networks
 - ✅[MLP](notebooks/DL_fundamental/01_mlp.ipynb)  
 - ✅[Activation Functions](notebooks/DL_fundamental/02_activation_function.ipynb)
@@ -118,6 +130,7 @@ Everything is written in **pure Python** (only NumPy and/or PyTorch as helpers).
 - ✅[Optimizer](notebooks/DL_fundamental/05_optimizer.ipynb)
 - ✅[Learning Rate](notebooks/DL_fundamental/06_learning_rate.ipynb)
 - ✅[Normalization](notebooks/DL_fundamental/07_normalization.ipynb)
+- ✅[Regularization](notebooks/DL_fundamental/08_other_techniques.ipynb)
 
 ### CNNs
 - ✅[CNN (LeNet-5)](notebooks/CNNs/01_CNN_lenet5.ipynb)  
