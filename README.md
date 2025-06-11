@@ -10,7 +10,7 @@
 
 ---
 
-機械学習およびそれに付随するトピックのアルゴリズムを **NumpyやPyTorchのみで実装** し、仕組みを掘り下げる写経用リポジトリです。 
+機械学習およびそれに付随するトピックのアルゴリズムをなるべくスクラッチで実装し、仕組みを掘り下げる写経用リポジトリです。 
 
 ---
 
@@ -69,8 +69,8 @@
 
 
 ### RNNs
-- ⏳[SRN](notebooks/RNNs/01_SRN.ipynb)  
-- ⏳[BPTT](notebooks/RNNs/02_BPTT.ipynb)  
+- ✅[SRN](notebooks/RNNs/01_SRN.ipynb)  
+- ✅[BPTT](notebooks/RNNs/02_BPTT.ipynb)  
 - ✅[LSTM](notebooks/RNNs/03_LSTM.ipynb)  
 - ✅[GRU](notebooks/RNNs/04_GRU.ipynb)  
 
@@ -88,7 +88,6 @@
 # ML Scratch-Implementation Collection
 
 A hands-on repository for **implementing machine-learning algorithms from scratch** to truly understand how they work.  
-Everything is written in **pure Python** (only NumPy and/or PyTorch as helpers).
 
 ---
 
@@ -147,8 +146,8 @@ Everything is written in **pure Python** (only NumPy and/or PyTorch as helpers).
 - ✅[HuggingFace Tokenizer](notebooks/basic_NLP/05_huggingface_tokenizer.ipynb) 
 
 ### RNNs
-- ⏳[SRN](notebooks/RNNs/01_SRN.ipynb)  
-- ⏳[BPTT](notebooks/RNNs/02_BPTT.ipynb)  
+- ✅[SRN](notebooks/RNNs/01_SRN.ipynb)  
+- ✅[BPTT](notebooks/RNNs/02_BPTT.ipynb)  
 - ✅[LSTM](notebooks/RNNs/03_LSTM.ipynb)  
 - ✅[GRU](notebooks/RNNs/04_GRU.ipynb)
 
